@@ -1,6 +1,6 @@
 {
   "login": [
     { "id": 100001, "username": "helloworld", password: "123123" }, 
-    { "id": 100002, "username": "tester", password: "mobile123!" }, 
-  ], 
+    { "id": 100002, "username": "tester", password: "mobile123!" }
+  ]
 }
